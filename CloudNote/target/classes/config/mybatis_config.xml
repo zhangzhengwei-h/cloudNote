@@ -1,0 +1,9 @@
+<configuration>
+ <settings>
+  <setting name="cacheEnabled" value="false" />
+ </settings>
+ <typeAliases>
+  <package name="com.desksoft.oceanus.goods.dataobject"/>
+  <package name="com.desksoft.oceanus.goods.vo"/>
+ </typeAliases>
+</configuration>
